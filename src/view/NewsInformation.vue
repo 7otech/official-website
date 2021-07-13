@@ -7,7 +7,6 @@
             </div>
             <div class="nav container text-center">
                 <a href="#" class="active">公司新闻</a>
-                <a href="#">行业动态</a>
             </div>
             <ul class="news-container container-fuild">
                 <li v-for="(item,index) in newsList" :key="index" class="wow fadeIn">
@@ -40,40 +39,10 @@ export default {
             newsList:[
                 {
                     id: '001',
-                    title: '世界上第一个程序员',
-                    introduce: '为计算程序拟定“算法”，写作的第四份“程序设计流程图”，被珍视为“第一位给计算机',
-                    date: '05-24',
-                    year: '2019'
-                },{
-                    id: '002',
-                    title: '世界上第二个程序员',
-                    introduce: '为计算程序拟定“算法”，写作的第四份“程序设计流程图”，被珍视为“第一位给计算机',
-                    date: '05-24',
-                    year: '2019'
-                },{
-                    id: '003',
-                    title: '世界上第三个程序员',
-                    introduce: '为计算程序拟定“算法”，写作的第四份“程序设计流程图”，被珍视为“第一位给计算机',
-                    date: '05-24',
-                    year: '2019'
-                },{
-                    id: '004',
-                    title: '世界上第四个程序员',
-                    introduce: '为计算程序拟定“算法”，写作的第四份“程序设计流程图”，被珍视为“第一位给计算机',
-                    date: '05-24',
-                    year: '2019'
-                },{
-                    id: '005',
-                    title: '世界上第五个程序员',
-                    introduce: '为计算程序拟定“算法”，写作的第五份“程序设计流程图”，被珍视为“第一位给计算机',
-                    date: '05-24',
-                    year: '2019'
-                },{
-                    id: '006',
-                    title: '世界上第六个程序员',
-                    introduce: '为计算程序拟定“算法”，写作的第五份“程序设计流程图”，被珍视为“第一位给计算机',
-                    date: '05-24',
-                    year: '2019'
+                    title: '公司成立',
+                    introduce: '公司成立',
+                    date: '11-07',
+                    year: '2016'
                 }
             ]
         }
