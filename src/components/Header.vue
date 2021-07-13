@@ -96,12 +96,8 @@ export default {
           path: "/software",
           children: [
             {
-              name: "智能小镇管理系统",
-              path: "/software/smartTown"
-            },
-            {
-              name: "大数据管理系统",
-              path: "/software/bigData"
+              name: "BI系统",
+              path: "/software/bi"
             }
           ]
         },

@@ -49,6 +49,14 @@ export default new Router({
               meta: {
                 title: '软件产品丨大数据管理系统'
               }
+            },
+            {
+              path: '/software/bi',
+              name: 'software',
+              component: resolve => require(['@/view/Software_bi'], resolve),
+              meta: {
+                title: '软件产品丨BI系统'
+              }
             }
           ]
         }, {
