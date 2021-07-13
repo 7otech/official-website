@@ -6,7 +6,7 @@
         </div>
         <div class="container">
             <div class="Service-container row">
-                <div class="Service-item col-xs-12 col-sm-6 col-md-3 wow slideInUp" 
+                <div class="Service-item col-xs-12 col-sm-6 col-md-3 wow slideInUp"
                 v-for="(item,index) in serviceList" :key="index" @click="ServiceClick(item.id)">
                     <div class="Service-item-wrapper">
                         <div class="Service-item-top">
@@ -33,22 +33,22 @@ export default {
             serviceList: [
                 {
                     id: 'section-1',
-                    title: '软件定制开发',
+                    title: '大数据平台',
                     eng_title: 'Customize App',
                     img: require('@/assets/img/service1.jpg')
                 },{
                     id: 'section-2',
-                    title: 'IT外包服务',
+                    title: '软件定制开发',
                     eng_title: 'Outsourcing',
                     img: require('@/assets/img/service2.jpg')
                 },{
                     id: 'section-3',
-                    title: '网上商城建设',
+                    title: 'IT外包服务',
                     eng_title: 'eCommerce Site',
                     img: require('@/assets/img/service3.jpg')
                 },{
                     id: 'section-4',
-                    title: 'iOS应用定制开发',
+                    title: '低代码平台',
                     eng_title: 'iOS App Dev',
                     img: require('@/assets/img/service4.jpg')
                 }
