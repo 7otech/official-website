@@ -20,7 +20,7 @@ export default new Router({
           name: 'home',
           component: resolve => require(['@/view/HomePage'], resolve),
           meta: {
-            title: '首页'
+            title: '七橙智擎'
           }
         }, {
           path: '/software',
