@@ -3,9 +3,9 @@
     <div class="logo">
       <img src="@/assets/img/logo_white.png" alt="logo图">
     </div>
-    <p class="title">公司企业网站模板</p>
+    <p class="title">七橙智擎</p>
     <p class="address_tel_fax">
-      <span>地址：公司地址公司地址公司地址公司地址</span>
+      <span>地址：北京市海淀区</span>
     </p>
     <p class="email_wx">
       <span>邮箱：1097692918@qq.com</span>
