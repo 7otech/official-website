@@ -33,17 +33,17 @@ export default {
             serviceList: [
                 {
                     id: 'section-1',
-                    title: '大数据平台',
+                    title: 'BI分析系统',
                     eng_title: 'Customize App',
                     img: require('@/assets/img/service1.jpg')
                 },{
                     id: 'section-2',
-                    title: '软件定制开发',
+                    title: 'AI建模分析',
                     eng_title: 'Outsourcing',
                     img: require('@/assets/img/service2.jpg')
                 },{
                     id: 'section-3',
-                    title: 'IT外包服务',
+                    title: '大数据平台',
                     eng_title: 'eCommerce Site',
                     img: require('@/assets/img/service3.jpg')
                 },{
