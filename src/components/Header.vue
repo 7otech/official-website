@@ -5,8 +5,7 @@
     <div class="header-top container-fuild hidden-xs">
       <div class="container">
         <div class="server pull-left">
-          <span class="glyphicon glyphicon-earphone"></span>888-888-888
-          <span class="glyphicon glyphicon-envelope"></span>liyunkun_11@163.com
+          <span class="glyphicon glyphicon-envelope"></span>1097692918@qq.com
           <span class="glyphicon glyphicon-time"></span>7x24小时为您服务
         </div>
         <div class="shejiao pull-right">
@@ -180,8 +179,8 @@ export default {
 }
 /* 导航栏logo图片 */
 #header .header-nav .header-nav-logo img {
-  width: 95px;
-  height: 45px;
+  width: 200px;
+  height: 52px;
   position: absolute;
   top: 0;
   left: 0;
@@ -291,8 +290,8 @@ export default {
   }
   /* 导航栏logo图片 */
   #header .header-nav-m .header-nav-m-logo img {
-    width: 95px;
-    height: 45px;
+    width: 200px;
+    height: 52px;
     position: absolute;
     top: 0;
     left: 0;
