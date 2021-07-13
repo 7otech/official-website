@@ -371,8 +371,8 @@ export default {
   padding: 30px;
 }
 #customer .customer-logo img {
-  width: 94px;
-  height: 94px;
+  width: 165px;
+  height: 100px;
   border: 1px solid #ccc;
 }
 #customer .customer-yh img {
@@ -465,8 +465,8 @@ export default {
     font-weight: bold;
   }
   #customer .customer-logo img {
-    width: 48px;
-    height: 48px;
+    width: 165px;
+    height: 100px;
   }
   #customer .customer-block {
     padding: 30px;
