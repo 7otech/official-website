@@ -38,19 +38,19 @@ export default {
       serviceNavList: [
         {
           id: "section-1",
-          title: "软件定制开发"
+          title: "BI分析系统"
         },
         {
           id: "section-2",
-          title: "IT外包服务"
+          title: "AI建模分析"
         },
         {
           id: "section-3",
-          title: "网上商城建设"
+          title: "大数据平台"
         },
         {
           id: "section-4",
-          title: "iOS应用定制开发"
+          title: "低代码平台"
         }
       ],
       serviceContentList: [
