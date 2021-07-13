@@ -491,8 +491,8 @@ export default {
     border-bottom: 5px solid #ccc;
   }
   #whyChooseUs .server-block img {
-    width: 48px;
-    height: 48px;
+    width: 165px;
+    height: 100px;
   }
   #whyChooseUs .server-block > p {
     font-size: 20px;
