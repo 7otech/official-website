@@ -57,28 +57,28 @@ export default {
         {
           id: "section-1",
           title: "BI分析系统",
-          eng_title: "Customize App",
+          eng_title: "BI System",
           content:
             "<h3>BI分析系统</h3><p>BI分析系统</p>"
         },
         {
           id: "section-2",
           title: "AI建模分析",
-          eng_title: "Outsourcing",
+          eng_title: "AI",
           content:
             "<h3>AI建模分析</h3><p>AI建模分析</p>"
         },
         {
           id: "section-3",
           title: "大数据平台",
-          eng_title: "eCommerce Site",
+          eng_title: "bigdata",
           content:
             "<h3>大数据平台</h3><p>大数据平台</p>"
         },
         {
           id: "section-4",
           title: "低代码平台",
-          eng_title: "iOS App Dev",
+          eng_title: "lowcode",
           content:
             "<h3>低代码平台</h3><p>低代码平台</p>"
         }
