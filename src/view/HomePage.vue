@@ -169,11 +169,11 @@ export default {
       ],
       customerList: [
         {
-          logo: require("@/assets/img/logo_hp.png"),
+          logo: require("@/assets/img/logo_bocloud.png"),
           title:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。",
+            "值得信赖",
           content:
-            "您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。您可以双击这里或者点击编辑按钮来修改内容。您还可以添加图标，按钮，图片等常用元素。"
+            "值得信赖"
         }
       ],
       serverList: [
