@@ -156,7 +156,14 @@ export default {
       ],
       customerList: [
         {
-          logo: require("@/assets/img/logo_bocloud.png"),
+          logo: require("@/assets/img/logo_foton.png"),
+          title:
+            "值得信赖",
+          content:
+            "值得信赖"
+        },
+        {
+          logo: require("@/assets/img/logo_ct.png"),
           title:
             "值得信赖",
           content:
