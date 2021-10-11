@@ -10,7 +10,12 @@
     <p class="email_wx">
       <span>邮箱：1097692918@qq.com</span>
     </p>
-    <p class="copy">Copyright &copy; 2021 七橙科技</p>
+    <p class="copy">
+      Copyright &copy; 2021 七橙科技
+    </p>
+    <p class="copy">
+      <a href="http://www.beian.gov.cn/portal/index.do">京ICP备2021009969号</a>
+    </p>
   </div>
 </template>
 <script>
